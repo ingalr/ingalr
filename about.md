@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ingalr and Ana R
+- 👋 Hi, I’m @ingalr/Ana R
 - 👀 I’m interested in Cloud Computing. I'm (always) underconstruction 🚧
 - 🌱 I’m currently learning GCP and deepening my expertise in multi-cloud environments
 - 💞️ I’m looking to collaborate on real-world projects based on Cloud (Private, Public, and Hybrid)
